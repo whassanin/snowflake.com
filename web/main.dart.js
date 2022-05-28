@@ -47956,7 +47956,7 @@ A.w8.prototype={
 P(a,b){return this.e.$2(b,this.f)}}
 A.MR.prototype={}
 A.z5.prototype={
-P(a,b){return new A.qq(new A.C5(null),"Flutter Demo",A.a4N(null,B.e5),!1,null)}}
+P(a,b){return new A.qq(new A.C5(null),"SnowFlake",A.a4N(null,B.e5),!1,null)}}
 A.rc.prototype={
 aH(){return new A.F6(null,null,B.o)}}
 A.F6.prototype={
